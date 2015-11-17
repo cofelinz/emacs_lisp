@@ -1,0 +1,19 @@
+配置都在配置文件中，因此只需要解压
+(注：下面说的路径和文件夹，如果没有的自己建)
+
+安装yasnippet：(模板功能)
+在~/install目录下解压
+
+安装auto-complete:(自动补全)
+在~/install目录下 tar 解压,然后make(该文件夹不能被移动)
+
+安装cedet:
+在~/install解压,然后看INSTALL安装。
+
+安装ecb:
+在~/install 里解压
+
+然后将my.emacs重命名为.emacs
+
+将_emacs 和 .emacs都放在 ~/目录下即可。
+注：为了更好的使用，请看_emacs的文件base.el 和以cy开头的文件
